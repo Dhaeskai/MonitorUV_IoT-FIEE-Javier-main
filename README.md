@@ -9,7 +9,6 @@ se encuentra en otro sercicio el cual es Aws EC2 el cual cumple la funcion de se
 mediante un dashboard toda la información de los sensores.
 
 
-
 ![diseñoFinal](https://user-images.githubusercontent.com/105142766/209456939-083d94e0-af6e-48c6-be04-3ed832dbf653.png)
 
 
